@@ -10,6 +10,12 @@ It's one line of code to wrap Google Keep in an app window made possible by [Mac
 # Build
 Build using instructions on [MacGap-rb](https://github.com/maccman/macgap-rb)
 
+After installing MacGap and cloned Google Keep Desktop just type
+
+$ macgap build [DIR]
+
+Then move the newly created [DIR].app to your OSX Application directory.
+
 # Run
 Click the pretty icon :)
 
